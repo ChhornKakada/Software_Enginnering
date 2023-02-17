@@ -1,0 +1,8 @@
+1~`~Math~`~For students who enjoys math.
+2~`~Java~`~For students to want to learn.
+3~`~Python~`~For year 1 to student to start.
+4~`~Novel~`~great imagination for sleeping student.
+5~`~Fiction~`~literature created from the imagination, not presented as fact, though it may be based on a true story or situation.
+6~`~Science~`~The systematic study of the structure and behaviour of the physical and natural world through observation, experimentation, and the testing of theories against the evidence obtained.
+7~`~History ~`~the study of past events, particularly in human affairs.
+8~`~Adventure stories~`~An adventure is an event or series of events that happens outside the course of the protagonist's ordinary life, usually accompanied by danger, often by physical action.

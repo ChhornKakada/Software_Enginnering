@@ -1,0 +1,12 @@
+e20190146~`~Chhorn Kakada~`~22.07.2001~`~017702078~`~GIC-A~`~Cambodia~`~Phnom Penh
+e20190852~`~Doeurn Sreynith~`~15.02.2002~`~085741245~`~GIC-B~`~Cambodia~`~Phnom Penh
+e20190963~`~Den Seangmeng~`~03.02.2001~`~096968565~`~GIC-C~`~China~`~Pejin
+e20190021~`~Deourn Den~`~15.08.2000~`~096857412~`~GIC-A~`~USA~`~Californha
+e20190520~`~Bun Linin~`~23.07.2001~`~012457878~`~GIC-C~`~Cambodia~`~Kandal
+e20190969~`~Heng Piseth~`~10.10.2001~`~096898985~`~GIC-B~`~Cambodia~`~Phnom Penh
+e20190214~`~Chhorn Sovannara~`~06.04.2001~`~078788547~`~GIC-A~`~Cambodia~`~Svay Reang
+e20190635~`~Chhorn Tola~`~26.01.2000~`~012457802~`~GIC-A~`~Cambodia~`~Kampot
+e20190885~`~Hang Sovichea~`~15.01.2000~`~012635202~`~GIC-B~`~Cambodia~`~Kampong Saom
+e20190666~`~Chan Leakana~`~09.08.2002~`~023568978~`~GIC-A~`~Cambodia~`~Phnom Penh
+e20190321~`~Chan Sovan~`~17.05.2003~`~017857474~`~GIC-C~`~Cambodia~`~Phnom Penh
+e20190360~`~Sok Vyvy~`~23.02.2001~`~012320212~`~GIC-A~`~Cambodia~`~Phnom Penh
