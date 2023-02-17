@@ -1,0 +1,6 @@
+p2343,Modern Chair,26.0,34
+p5433,Office Ergonomic Chair,296.0,12
+p0012,Low Poly Gaming Desk,309.0,5
+p0382,Corner Bookshelf 9-cube,59.75,20
+p0023,Conan Oval Dining Table,899.99,10
+p1200,Seno Walnut 71" Sideboard,569.0,9

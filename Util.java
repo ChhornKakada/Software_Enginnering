@@ -1,4 +1,7 @@
+import java.nio.channels.Pipe;
 import java.util.Scanner;
+
+import javax.swing.text.AbstractDocument.LeafElement;
 
 public class Util {
 
@@ -14,8 +17,8 @@ public class Util {
     }
 
     // press any key to continue
-    public void pause() {
-        System.out.print("Press enter to continue...");
+    public void pause(String tap) {
+        System.out.print(tap+ "Press enter to continue...");
         try{System.in.read();}catch(Exception e){e.printStackTrace();}
     }
 
@@ -51,6 +54,45 @@ public class Util {
             this.input.next();
         }
         return this.input.nextDouble();
+    }
+
+    // method get Point
+    public Point getPoint(String lable, String ErrorInput) {
+        System.out.print(lable);
+        
+        String[] get = this.input.nextLine().split(",");
+        boolean conti_ = false;
+
+        do{
+
+            // when (get[0], get[1] != int) and get.length != 2
+            if(conti_) {
+                System.out.print(ErrorInput);
+                get = this.input.nextLine().split(",");
+            }
+            conti_ = false;
+
+            if(get.length == 2){
+                get[0] = get[0].trim();
+                get[1] = get[1].trim();
+                if(!isInteger(get[0]) || !isInteger(get[1])) conti_ = true;
+            } else conti_ = true;
+        } while(conti_);
+
+        Point p = new Point(Integer.parseInt(get[0]), Integer.parseInt(get[1]));
+        return p;
+    }
+
+    public boolean isInteger(String s) {
+        try { 
+            Integer.parseInt(s); 
+        } catch(NumberFormatException e) { 
+            return false; 
+        } catch(NullPointerException e) {
+            return false;
+        }
+        // only got here if we didn't return false
+        return true;
     }
 
     // Reset
