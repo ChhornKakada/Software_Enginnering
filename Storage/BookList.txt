@@ -1,7 +1,0 @@
-0215487585412~`~Calculating AI~`~Chhorn Kakada%HelloWorld~`~1~`~22.07.2001~`~This book help lots of student to solve the problem they stucked.~`~false
-0236521402585~`~How to pro at Math~`~Lim Sery%Den Sina~`~1~`~03.05.1999~`~As a mather, you need to be pro at math.~`~false
-8521472520145~`~The world is ugly~`~Chom Chengly~`~4~`~15.08.2016~`~What do you see in this world?~`~true
-9781593279288~`~Python Crash Course~`~Eric Matthes~`~3~`~03.05.2019~`~A fast-paced, no-nonsense, updated guide to programming in Python.~`~true
-9781492037200~`~Java in a Nutshell~`~Benjamin J. Evans%David Flanagan~`~2~`~02.03.2018~`~This updated edition of Java in a Nutshell not only helps experienced Java programmers get the most out of Java versions 9 through 11, it's also a learning path for new developers.~`~true
-8520963520142~`~how I feel~`~Den Ravy~`~4~`~15.02.2012~`~Do you know how I really feel?~`~true
-7418524105~`~asdf~`~sdfas dsasdf%asdfa df~`~8~`~31.07.2012~`~germgknejnjert~`~false
